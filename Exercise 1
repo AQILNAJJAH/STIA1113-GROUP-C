@@ -10,8 +10,7 @@ public class PrintPattern {
 	        PrintStarPattern();
 	    }
 	    
-	    static void PrintCheckerPattern() 
-	    {
+	    static void PrintCheckerPattern() {
 	        System.out.println("* * * * *");
 	        System.out.println(" * * * * *");
 	        System.out.println("* * * * *");
@@ -19,8 +18,7 @@ public class PrintPattern {
 	        System.out.println("* * * * *");
 	    }
 	    
-	    static void PrintSquarePattern() 
-	    {
+	    static void PrintSquarePattern() {
 	        System.out.println("* * * * *");
 	        System.out.println("*       *");
 	        System.out.println("*       *");
@@ -28,8 +26,7 @@ public class PrintPattern {
 	        System.out.println("* * * * *");
 	    }
 	    
-	    static void PrintTriangularPattern() 
-	    {
+	    static void PrintTriangularPattern() {
 	        System.out.println("* * * * *");
 	        System.out.println(" *     * ");
 	        System.out.println("  *   *  ");
@@ -37,8 +34,7 @@ public class PrintPattern {
 	        System.out.println("    *    ");
 	    }
 	    
-	    static void PrintStarPattern() 
-	    {
+	    static void PrintStarPattern() {
 	        System.out.println("    *    ");
 	        System.out.println("* *   * *");
 	        System.out.println("   * *   ");
