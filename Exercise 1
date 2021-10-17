@@ -4,7 +4,7 @@ public class PrintPattern {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 PrintCheckerPattern();
+		PrintCheckerPattern();
 	        PrintSquarePattern();
 	        PrintTriangularPattern();
 	        PrintStarPattern();
